@@ -1,0 +1,2 @@
+# PianoJs
+Simple JavaScript piano
