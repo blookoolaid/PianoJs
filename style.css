@@ -1,0 +1,4 @@
+h1 {font-size:52pt; font-family:"Comic Sans MS", cursive, sans-serif; color:#127ae2}
+#keyboard {display:flex; flex-wrap:nowrap;}
+.key {border:solid 2px; width:40px; height:80px; display: flex; align-items: flex-end; justify-content: center; font-family:sans-serif}
+.black {background-color:Black; color:White; border-color:Black}
